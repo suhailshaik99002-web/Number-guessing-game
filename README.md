@@ -21,3 +21,10 @@ This project is perfect for beginners learning Python basics like loops, conditi
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+number-guessing-game/
+│
+├── main2.py          # Main Python script containing the game logic
+├── README.md        # Documentation for the project
+ 
